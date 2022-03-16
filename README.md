@@ -2,8 +2,8 @@
 <h1 align="left">Olá mundo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, aqui é a Jess 🌺</h1>
 
 
+- 🌸Cursando Análise e Desenvolvimento de Sistemas na FIAP 
 - 🌻 Trabalho como jovem aprendiz no Mercado Livre
-- 🌷 Estudando JavaScript, CSS e html
 - 🌼 Pronomes: Ela/dela
 - 🌹 Fun fact: Sou fotógrafa, amo maquiagem e tenho 7 calopsitas! 
  

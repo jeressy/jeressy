@@ -5,7 +5,7 @@
 - 🌸Cursando Análise e Desenvolvimento de Sistemas na FIAP 
 - 🌻 Trabalho como jovem aprendiz no Mercado Livre
 - 🌼 Pronomes: Ela/dela
-- 🌹 Fun fact: Sou fotógrafa, amo maquiagem e tenho 7 calopsitas! 
+- 🌹 Fun fact: Sou fotógrafa, amo maquiagem, tenho 7 calopsitas e densenho pixel art! 
  
  
   

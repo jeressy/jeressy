@@ -1,5 +1,5 @@
  <img align="right" alt="Jessi-doll" height="700" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/948810448155865111/961860400780042290/pixel_jess-removebg-preview.png">
-<h1 align="left">Olá mundo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, aqui é a Jess 🌺</h1>
+<h1 align="left">Olá mundo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">, aqui é a Jess 🌺</h1>
 
 
 - 🌸Cursando Análise e Desenvolvimento de Sistemas na FIAP 

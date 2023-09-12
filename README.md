@@ -4,7 +4,7 @@
 - 🌸Cursando Análise e Desenvolvimento de Sistemas na FIAP 
 - 🌻 Estagiária de Infraestrutura
 - 🌼 Pronomes: Ela/dela
-- 🌹 Fun fact: Sou fotógrafa e tenho 7 calopsitas!
+- 🌹 Fun fact: Sou fotógrafa, maquiadora e tenho 7 calopsitas!
  
  
   

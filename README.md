@@ -1,8 +1,8 @@
 <h1 align="center">Olá mundo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30" height="30">, aqui é a Jess 🌺</h1>
 
 
-- 🌸Cursando Análise e Desenvolvimento de Sistemas na FIAP 
-- 🌻 Estagiária de Infraestrutura
+- 🌸Tecnólogo em Análise e Desenvolvimento de Sistemas na FIAP 
+- 🌻 Estagiária de SRE e CI/CD
 - 🌼 Pronomes: Ela/dela
 - 🌹 Fun fact: Sou fotógrafa, maquiadora e tenho 7 calopsitas!
  

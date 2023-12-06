@@ -1,7 +1,7 @@
 <h1 align="center">Olá mundo, aqui é a Jess 🌺</h1>
 
 
-- 🌸Tecnólogo em Análise e Desenvolvimento de Sistemas na FIAP 
+- 🌸Tecnólogo em Análise e Desenvolvimento de Sistemas pela FIAP 
 - 🌻 Um ano e meio como estagiária de SRE e CI/CD
 - 🌼 Pronomes: Ela/dela
 - 🌹 Fun fact: Sou fotógrafa, maquiadora e tenho 7 calopsitas!

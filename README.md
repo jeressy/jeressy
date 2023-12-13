@@ -10,8 +10,8 @@
   <details>
     <summary>🎓 Education</summary>
 
-   - Technologist in Analysis and Systems Development, FIAP
-    - Studying for full-stack development and UX/UI design.
+  - Technologist in Analysis and Systems Development, FIAP
+  - Studying for full-stack development and UX/UI design.
 
   </details>
 

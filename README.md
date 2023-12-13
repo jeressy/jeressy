@@ -1,13 +1,38 @@
 <h1 align="center">Olá mundo, aqui é a Jess 🌺</h1>
 
 
-- 🌸Tecnólogo em Análise e Desenvolvimento de Sistemas pela FIAP 
-- 🌻 Um ano e meio como estagiária de SRE, CI/CD e Infraestrutura
-- 🌼 Pronomes: Ela/dela
-- 🌹 Fun fact: Sou fotógrafa, maquiadora e tenho 7 calopsitas!
+
+<div>
+  <img src="https://i.pinimg.com/originals/a0/10/00/a010000f82821b2c34ad6c93dbe80e77.jpg" alt="Jess's Image" width="300" align="left"/>
  
+<br>
+
+  <details>
+    <summary>🎓 Education</summary>
+
+   - Technologist in Analysis and Systems Development, FIAP
+    - Studying for full-stack development and UX/UI design.
+
+  </details>
+
+
+<details>
+<summary>💼 Professional Experience</summary>
+
+- 1.5 years as an intern in SRE, CI/CD, and Infrastructure
+- Developed Python scripts to automate tasks and gained experience in DevOps
+
+</details>
+
+<details>
+<summary>🌈 Personal</summary>
+
+- Pronouns: She/her
+- Fun fact: I'm a photographer, makeup artist, and I have 7 cockatiels!
+
+</details>
  
-<div style="display: inline_block"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Jessi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Jessi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Jessi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -19,16 +44,17 @@
   <img align="center" alt="Jessi-gitlab" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /> 
   <img align="center" alt="Jessi-figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
   <img align="center" alt="Jessi-bash" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg" /> 
-  <img align="center" alt="Jessi-confluence" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" /> 
-  <img align="center" alt="Jessi-jira" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> 
-<h3 align="left"> Em aprendizado: </h3>
+
+  <h3 align="left"> Learning: </h3>
   <img align="center" alt="Jessi-aws" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
   <img align="center" alt="Jessi-kubernetes" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img align="center" alt="Jessi-docker" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
   <img align="center" alt="Jessi-terraform" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
   <img align="center" alt="Jessi-prometheus" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" />
   <img align="center" alt="Jessi-java" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
 </div>
+
 
 <html>
 <hr class="rounded">

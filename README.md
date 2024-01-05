@@ -15,7 +15,7 @@
   <details>
     <summary>💼 Professional Experience</summary>
 
-   ◊ 1.5 years as an intern in SRE, CI/CD, and Infrastructure<br>
+   ◊ 1.6 years as an intern in SRE, CI/CD, and Infrastructure<br>
    ◊ Developed Python scripts to automate tasks and gained experience in DevOps
 
   </details>
